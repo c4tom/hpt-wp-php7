@@ -1,0 +1,85 @@
+User-agent: *
+# remova os diretorios
+Disallow: /cgi-bin/
+Disallow: */tag/*
+Disallow: */tag/
+Disallow: /tag/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: */trackback/
+Disallow: */trackback/*
+Disallow: /feed/
+Disallow: */feed/
+Disallow: */feed/*
+Disallow: /tags/
+Disallow: */tags/
+Disallow: */tags/*
+Disallow: /category/
+Disallow: */category/
+Disallow: */category/*
+Disallow: /page/
+Disallow: */page/
+Disallow: */page/*
+Disallow: */2010/*
+Disallow: */2010/*
+Disallow: */2011/*
+Disallow: */2011/*
+
+#remova os arquivos
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.wmv$
+Disallow: /*.tar$
+Disallow: /*.tgz$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+
+User-agent: Googlebot
+# remova os diretorios
+Disallow: /cgi-bin/
+Disallow: */tag/*
+Disallow: */tag/
+Disallow: /tag/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: */trackback/
+Disallow: */trackback/*
+Disallow: /feed/
+Disallow: */feed/
+Disallow: */feed/*
+Disallow: /tags/
+Disallow: */tags/
+Disallow: */tags/*
+Disallow: /category/
+Disallow: */category/
+Disallow: */category/*
+Disallow: /page/
+Disallow: */page/
+Disallow: */page/*
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.wmv$
+Disallow: /*.tar$
+Disallow: /*.tgz$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+# permitir o adsense em qualquer url
+User-agent: Mediapartners-Google
+Allow: /
+
+#Sitemap
+Sitemap: http://www.copeltelecom.com/sitemap.xml
+Sitemap: http://www.copeltelecom.com/sitemap.xml.gz

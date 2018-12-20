@@ -1,0 +1,944 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nifty Backups\n"
+"POT-Creation-Date: 2016-11-25 08:54+0200\n"
+"PO-Revision-Date: 2016-11-25 08:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: nifty-backups-pro\n"
+"X-Poedit-SearchPath-1: nifty-backups\n"
+
+#: nifty-backups-pro/includes/offsite_ftp.php:150
+msgid "FTP"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:151
+msgid "Please add your FTP details below"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:155
+msgid "Host address"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:160
+msgid "Username"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:165
+msgid "Password"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:170
+msgid "Directory"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:176
+msgid "Transfer Mode"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:185
+msgid "Passive Mode"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:188
+msgid "Enabled"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:189
+msgid "Disabled"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_ftp.php:196
+msgid "Test connection"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:74
+msgid "Google Drive"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:75
+msgid "Please insert your Google Drive API information here"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:76
+msgid "Need help?"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:76
+msgid "Read our documentation"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:79
+msgid "Client ID"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:83
+msgid "Client Secret"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:92
+msgid "Google Drive Authorization Saved"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:94
+msgid "Get authorization"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:299
+msgid "Nifty Backups and Google Drive"
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:300
+msgid ""
+"Please click the button below to authorize Nifty Backups to be able to send "
+"files to your Google Drive account."
+msgstr ""
+
+#: nifty-backups-pro/includes/offsite_google_drive.php:340
+msgid "Connect now"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:43
+#, php-format
+msgid ""
+"<strong>Nifty Backups Pro</strong> requires both the <strong><a "
+"href='%s'>basic version</a></strong> and the pro version to be installed and "
+"activated in order to work correctly. Please <a href='%s'>install the basic "
+"version.</a>"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:251
+#: nifty-backups/nifty-backups.php:675
+msgid "Exclude files over"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:257
+#: nifty-backups/nifty-backups.php:678
+msgid "Mb"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:257
+#: nifty-backups/nifty-backups.php:678
+msgid "(Leave blank to backup all file sizes)"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:264
+#: nifty-backups/nifty-backups.php:683
+msgid "Exclude these file extensions"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:277
+#: nifty-backups/nifty-backups.php:688
+msgid "Example:<br />.jpg<br />.zip<br />.log"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:303
+#: nifty-backups/nifty-backups.php:599
+msgid "Table name"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:304
+#: nifty-backups/nifty-backups.php:600
+msgid "Estimated size"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:305
+#: nifty-backups/nifty-backups.php:601
+msgid "Number of records"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:425
+msgid "Schedule backups"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:430
+msgid "Select..."
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:431
+msgid "Never"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:432
+msgid "Daily at:"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:433
+msgid "Weekly on:"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:434
+msgid "Monthly on the:"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:438
+msgid "Mondays"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:439
+msgid "Tuesdays"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:440
+msgid "Wednesdays"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:441
+msgid "Thursdays"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:442
+msgid "Fridays"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:443
+msgid "Saturdays"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:444
+msgid "Sundays"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:449
+msgid "1st"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:450
+msgid "2nd"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:451
+msgid "3rd"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:452
+msgid "4th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:453
+msgid "5th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:454
+msgid "6th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:455
+msgid "7th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:456
+msgid "8th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:457
+msgid "9th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:458
+msgid "10th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:459
+msgid "11th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:460
+msgid "12th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:461
+msgid "13th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:462
+msgid "14th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:463
+msgid "15th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:464
+msgid "16th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:465
+msgid "17th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:466
+msgid "18th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:467
+msgid "19th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:468
+msgid "20th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:469
+msgid "21st"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:470
+msgid "22nd"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:471
+msgid "23rd"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:472
+msgid "24th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:473
+msgid "25th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:474
+msgid "26th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:475
+msgid "27th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:476
+msgid "28th"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:503
+msgid "Current server time:"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:609
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: nifty-backups-pro/nifty-backups-pro.php:614
+msgid "An unknown error occurred"
+msgstr ""
+
+#: nifty-backups/includes/REST_api.php:21
+msgid "REST API"
+msgstr ""
+
+#: nifty-backups/includes/REST_api.php:25
+msgid "REST API Secret Token"
+msgstr ""
+
+#: nifty-backups/includes/module_notifications.php:17
+msgid "Notification Control"
+msgstr ""
+
+#: nifty-backups/includes/module_notifications.php:21
+msgid "Email to send notifications"
+msgstr ""
+
+#: nifty-backups/includes/module_notifications.php:25
+msgid "Multiple emails seperated by comma"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite.php:9
+msgid "Save offsite storage settings"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite.php:20
+msgid "Offsite Storage"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite.php:28
+msgid "Send to cloud"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite.php:54
+msgid "Offsite Storage Settings"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite.php:73
+msgid "Send my backups to"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite_email.php:10
+#: nifty-backups/includes/module_offsite_email.php:16
+#: nifty-backups/includes/module_offsite_email.php:22
+#, php-format
+msgid "(<a target='_BLANK' href='%s'>Pro version</a>)"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite_email.php:64
+msgid "Nifty Backups - Backup File Attachment"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite_email.php:65
+msgid "Backup File Attachment"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite_email.php:66
+#, php-format
+msgid "A request was received to email the backup file: %s"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite_email.php:67
+#: nifty-backups/nifty-backups.php:929 nifty-backups/nifty-backups.php:994
+#: nifty-backups/nifty-backups.php:1254 nifty-backups/nifty-backups.php:1271
+#: nifty-backups/nifty-backups.php:1797 nifty-backups/nifty-backups.php:3000
+#: nifty-backups/nifty-backups.php:3036 nifty-backups/nifty-backups.php:3133
+msgid ""
+"Thank you for using <a href='http://niftybackups.com'>Nifty Backups</a>."
+msgstr ""
+
+#: nifty-backups/includes/module_offsite_email.php:80
+msgid "The file is too big to send over email. There is a 20mb limit"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite_email.php:114
+msgid "Email"
+msgstr ""
+
+#: nifty-backups/includes/module_offsite_email.php:115
+msgid "All backup ZIP files under 20mb will be emailed."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:205
+msgid ""
+"* Nifty Backups encourages you to make use of best practice when backing up "
+"your important data. Backup solutions should be stacked - in other words, "
+"you should make sure that you use more than one backup solution when dealing "
+"with sensitive or important data. Nifty Backups should be one of a few "
+"solutions you use when backing up your data."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:312
+msgid "Every Minute"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:531
+msgid "General settings"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:535
+msgid "Table rows per backup iteration"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:538
+msgid "rows"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:538
+msgid "Max: 5000 (The higher the number, the more resources are required.)"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:543
+msgid "Files per backup iteration"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:546
+msgid "files"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:546
+msgid "Max: 3000 (The higher the number, the more resources are required.)"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:570
+msgid "Do not backup the database"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:584
+msgid "Exclude these tables:"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:586
+#, php-format
+msgid ""
+"Exclude tables when running a backup with the <a href='%s'>Pro Version</a> "
+"for only %s once off. Updates and support included forever!"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:620
+msgid "Nifty Backups Support"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:624
+msgid "Select when you would like your backup to automatically run."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:632
+msgid "Scheduling settings:"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:633
+msgid "pro version."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:651
+msgid "Do not backup files"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:670
+#, php-format
+msgid ""
+"Customize advanced file backup settings with the<a href='%s'>Pro Version</a> "
+"for only %s once off. Updates and support included forever!"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:697
+#, php-format
+msgid "<a href=\"%s\" title=\"%s\" target=\"_BLANK\">%s</a>"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:710
+msgid "Saving..."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:711
+msgid "Settings saved."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:713 nifty-backups/nifty-backups.php:1795
+msgid "Backup Started"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:715
+msgid ""
+"The backup has begun. Navigating away or closing this window will not affect "
+"the backup in any way."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:721 nifty-backups/nifty-backups.php:3581
+msgid "Backup in progress"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:721 nifty-backups/nifty-backups.php:3581
+msgid ""
+"There is a backup in progress. Information about the backup will appear here "
+"periodically."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:723
+msgid "Your file is currently being fetched. Please be patient."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:724
+msgid ""
+"Your site has been put into maintenance mode until the restore is complete"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:782
+msgid "Backups"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:926
+msgid "Nifty Backups - Database Restore Successful"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:927
+msgid "Restore complete"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:979
+msgid ""
+"There was an error opening the ZIP package. Please contact support (Line "
+"number: "
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:991
+msgid "Nifty Backups - File Restore Successful"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:992
+msgid "File Restore complete"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1010
+msgid ""
+"There was an error unzipping the package. Please contact support (Line "
+"number: "
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1251 nifty-backups/nifty-backups.php:1268
+msgid "Nifty Backups - Error Importing Chunk"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1252 nifty-backups/nifty-backups.php:1269
+msgid "Chunk Import Error"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1253 nifty-backups/nifty-backups.php:1270
+msgid "Problem importing a chunk of SQL while restoring your backup"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1357
+msgid ""
+"There was an error locating the unzipped SQL file. Please contact support."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1379
+msgid "Nifty Backups"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1411
+msgid "Dashboard"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1412
+msgid "Backup"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1413 nifty-backups/nifty-backups.php:1589
+#: nifty-backups/templates/restore.php:13
+msgid "Restore"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1418
+msgid "Settings"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1420
+msgid "General"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1421
+msgid "Database"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1422
+msgid "Files"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1430
+msgid "Schedules"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1435 nifty-backups/templates/support.php:6
+msgid "Support"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1441
+msgid ""
+"There was an issue when trying to create the default backup directory in "
+"your wp-content/uploads folder. Please contact support to get this fixed."
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1469
+msgid "Filename"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1470
+msgid "Date"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1471
+msgid "Size"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1472
+msgid "Integrity"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1473
+msgid "Actions"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1589 nifty-backups/nifty-backups.php:1596
+msgid "Restore this backup"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1592
+msgid "View backup log"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1594
+msgid "Download"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1597
+msgid "Delete this backup"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1605
+msgid "No backups found"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1794
+msgid "Nifty Backups - Backup Started"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:1796
+#, php-format
+msgid "A backup has been started on %s"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:2997
+msgid "Nifty Backups - Database Backup Complete"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:2998
+msgid "Database Backup Complete"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:2999
+#, php-format
+msgid "A database backup has ended successfully on %s"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3032
+msgid "Nifty Backups - Error"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3033
+msgid "Zip Error"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3034
+#, php-format
+msgid ""
+"There was a problem ziping your backup file. Please contact <a "
+"href='%s'>Support</a>"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3130
+msgid "Nifty Backups - File Backup Complete"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3131
+msgid "File Backup Complete"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3132
+#, php-format
+msgid "A file backup has ended successfully on %s"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3452
+msgid "Database Backup"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3453 nifty-backups/nifty-backups.php:3456
+#, php-format
+msgid "Hostname: %s"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3455
+#, php-format
+msgid "Generated: %s"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3457
+#, php-format
+msgid "Database: %s"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3497
+msgid "Save database settings"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3501
+msgid "Save file settings"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3505
+msgid "Save settings"
+msgstr ""
+
+#: nifty-backups/nifty-backups.php:3509
+msgid "Save schedule"
+msgstr ""
+
+#: nifty-backups/templates/dashboard.php:6
+msgid "Available backups"
+msgstr ""
+
+#: nifty-backups/templates/db_settings.php:6
+#: nifty-backups/templates/general-settings.php:6
+msgid "Database backup settings"
+msgstr ""
+
+#: nifty-backups/templates/file_settings.php:6
+msgid "File backup settings"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:15
+#: nifty-backups/templates/restore_db.php:21
+#: nifty-backups/templates/restore_file.php:23
+msgid "IMPORTANT INFORMATION"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:16
+#: nifty-backups/templates/restore_db.php:22
+#: nifty-backups/templates/restore_file.php:24
+msgid ""
+"Please note that in order for the restoration to take place, the script that "
+"handles the restore must start and end in one loop. In order for this to "
+"happen, the PHP time limit of your host must not be restricted."
+msgstr ""
+
+#: nifty-backups/templates/restore.php:18
+#: nifty-backups/templates/restore_file.php:26
+msgid ""
+"The length of time required to run the restore is dependant on the size of "
+"the ZIP file that is being handled."
+msgstr ""
+
+#: nifty-backups/templates/restore.php:22
+#: nifty-backups/templates/restore_db.php:28
+#: nifty-backups/templates/restore_file.php:30
+msgid ""
+"Safe mode is enabled on this server. This means that we cannot increase the "
+"timeout limit for PHP programmatically, which may negatively affect your "
+"restore process."
+msgstr ""
+
+#: nifty-backups/templates/restore.php:23
+#: nifty-backups/templates/restore_db.php:29
+#: nifty-backups/templates/restore_file.php:31
+msgid ""
+"Before contuing, we recommend that you either ask your host to remove 'PHP "
+"safe mode' or that you upload the SQL file yourself using PHPMyAdmin or "
+"equivalent."
+msgstr ""
+
+#: nifty-backups/templates/restore.php:55
+#: nifty-backups/templates/restore_db.php:67
+#: nifty-backups/templates/restore_file.php:71
+msgid "Low risk"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:59
+msgid "High risk of failure."
+msgstr ""
+
+#: nifty-backups/templates/restore.php:88
+#: nifty-backups/templates/restore_db.php:106
+#: nifty-backups/templates/restore_file.php:110
+msgid "Need help? Hire a backup specialist."
+msgstr ""
+
+#: nifty-backups/templates/restore.php:94
+msgid "Backup from URL"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:97
+msgid "URL:"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:98
+msgid "Fetch &amp; Restore"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:104
+msgid ""
+"Example:<br />http://yoursite.com/wp-content/uploads/nifty-backups/yoursite."
+"com-2016-11-11-files-1478854233.zip<br />"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:105
+msgid "Please note that ONLY Nifty Backup files can be restored."
+msgstr ""
+
+#: nifty-backups/templates/restore.php:106
+msgid "* Google Drive URLs are not suitable"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:113
+msgid "Backup from local backups"
+msgstr ""
+
+#: nifty-backups/templates/restore.php:124
+#: nifty-backups/templates/restore_db.php:114
+#: nifty-backups/templates/restore_file.php:118
+msgid "Cancel"
+msgstr ""
+
+#: nifty-backups/templates/restore_db.php:18
+msgid "Restore (database)"
+msgstr ""
+
+#: nifty-backups/templates/restore_db.php:19
+#: nifty-backups/templates/restore_file.php:22
+msgid "Filename:"
+msgstr ""
+
+#: nifty-backups/templates/restore_db.php:24
+msgid ""
+"The length of time required to run the restore is dependant on the size of "
+"the SQL file that is being handled."
+msgstr ""
+
+#: nifty-backups/templates/restore_db.php:71
+#: nifty-backups/templates/restore_file.php:75
+msgid ""
+"High risk of failure. Please use PHPMyAdmin to restore this SQL file instead."
+msgstr ""
+
+#: nifty-backups/templates/restore_db.php:113
+#: nifty-backups/templates/restore_file.php:117
+msgid "Restore now"
+msgstr ""
+
+#: nifty-backups/templates/restore_file.php:21
+msgid "Restore (files)"
+msgstr ""
+
+#: nifty-backups/templates/schedules.php:6
+msgid "Backup Schedules"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:7
+msgid "Welcome!"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:9
+msgid "Nifty Backups is your complete backup and restore plugin"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:11
+msgid "How did you find us?"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:16
+msgid "WordPress.org plugin repository "
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:19
+msgid "Search Term"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:23
+msgid "Google or other search Engine"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:29
+msgid "Friend recommendation"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:35
+msgid "Other"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:39
+msgid "Please Explain"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:48
+msgid "Submit"
+msgstr ""
+
+#: nifty-backups/templates/welcome.php:50
+msgid "Skip"
+msgstr ""

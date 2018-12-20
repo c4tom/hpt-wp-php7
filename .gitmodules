@@ -1,0 +1,3 @@
+[submodule "site/wp-content/themes/copeltelecom"]
+	path = site/wp-content/themes/copeltelecom
+	url = https://github.com/Iprospectdev/copeltelecom.git
